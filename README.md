@@ -1,4 +1,4 @@
-#  Project 1: Spotify API
+#  Project 1: Spotify API :headphones:
 ## Introduction
   Spotify is a “ digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world”. As of late 2022, Spotify has 465 million users and is the most popular music streaming service. Spotify has curated playlists for a large variety of genres and playlists for top 50 popular songs in each country. 
 
@@ -11,3 +11,6 @@
  - Jupyter Notebook
 
 # Analysis
+
+## :musical_note: How has popular music changed over the last 50 years? :musical_note:
+  
