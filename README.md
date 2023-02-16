@@ -33,7 +33,11 @@
 
 ## How has popular music changed over the last 50 years? 
   For the changes over the last 50 years, we looked at four specific audio features.
-    * Danceability- there was an increase over the last 50 years. This can be indicated by a rise in latin music, caribbean music and also hip hop and rap.
-    * Valence - this category has been decreasing for the last 50 years. This can be due to a number of societal reasons. First, around 1980 thhere was a sharp decline in religious people. This may have an affect on what kind of music is tolerated. Music also became more blunt and spoke about real world issues, most of with were not happy. Finally, this may be due to just artists setting the trend for those to come. People continue to raise the bar, with each wave of popular artists, on how sad music can be.
-    * Speechiness- this category has overall been rising since 1985, with occasional dips around 2015 and 2021. The rapid rise in speechiness around 1990 can be attributed to the growing rap scene. There was a lot of competition between east and west coast rappers, this drove song production and then the poularity with rap overall.
-    * Explicit- songs that are explicit have been on the rise since 1990. This again can be attributed to the rise of rap, also the idea that hip hop and r$b were on the rise. There was less pressure by record labels to give out a clean and polished song. Society was craving raw truth and music provided that
+    
+* Danceability - there was an increase over the last 50 years. This can be indicated by a rise in latin music, caribbean music and also hip hop and rap.
+    
+* Valence - this category has been decreasing for the last 50 years. This can be due to a number of societal reasons. First, around 1980 thhere was a sharp decline in religious people. This may have an affect on what kind of music is tolerated. Music also became more blunt and spoke about real world issues, most of with were not happy. Finally, this may be due to just artists setting the trend for those to come. People continue to raise the bar, with each wave of popular artists, on how sad music can be.
+   
+* Speechiness - this category has overall been rising since 1985, with occasional dips around 2015 and 2021. The rapid rise in speechiness around 1990 can be attributed to the growing rap scene. There was a lot of competition between east and west coast rappers, this drove song production and then the poularity with rap overall.
+    
+* Explicit - songs that are explicit have been on the rise since 1990. This again can be attributed to the rise of rap, also the idea that hip hop and r$b were on the rise. There was less pressure by record labels to give out a clean and polished song. Society was craving raw truth and music provided that
