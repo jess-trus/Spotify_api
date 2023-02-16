@@ -41,3 +41,6 @@
 * Speechiness - this category has overall been rising since 1985, with occasional dips around 2015 and 2021. The rapid rise in speechiness around 1990 can be attributed to the growing rap scene. There was a lot of competition between east and west coast rappers, this drove song production and then the poularity with rap overall.
     
 * Explicit - songs that are explicit have been on the rise since 1990. This again can be attributed to the rise of rap, also the idea that hip hop and r$b were on the rise. There was less pressure by record labels to give out a clean and polished song. Society was craving raw truth and music provided that
+
+## Quarantine Conclusion
+  In conclusion, tastes in genre have broadened over the past decade and further so during Quarantine for Covid - 19.  Within the top streamed songs genres such as Pop and Alternative have slightly different attributes when compared to genres that are typically top streamed such as Jazz and Heavy Metal.  Heavy Metal has a much higher energy level and lower danceability whereas Jazz has higher valence but lower liveness.  This could suggest people prefer a specific range of danceability and valence when choosing what to listen to.
